@@ -35,6 +35,15 @@ const styles = StyleSheet.create({
     paddingHorizontal: 10,
     borderColor: "#7e7b7b",
   },
+  passwordGroup: {
+    flexDirection: 'row',
+    borderWidth: 1,
+    alignItems: 'center',
+    height: 50,
+    borderRadius: 10,
+    paddingHorizontal: 10,
+    borderColor: '#7e7b7b'
+  },
   formGroup: {
     marginTop: 44,
   },
